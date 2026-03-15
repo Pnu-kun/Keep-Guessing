@@ -11,7 +11,7 @@ Features
 
 Compile
 
-c++ guessing_game.cpp -o game
+g++ guessing_game.cpp -o game
 
 Run
 
