@@ -15,7 +15,7 @@ class gameLogic{
      status=0;
      dumb=0;
      randInt=rand() % 10 + 1;
-     cout<<"Guess the Random no.!"<<endl;
+     cout<<"Guess the Random no.(1-10)!"<<endl;
      do{
        cout<<"\nEnter your number: ";
        cin>>usrInt;
